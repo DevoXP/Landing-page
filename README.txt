@@ -1,0 +1,1 @@
+This project is focused on developing landing page of a website to showcase my skills of HTML and CSS. I will be implementing all the concepts I have learned so far in the Odin Project Foundations course.
